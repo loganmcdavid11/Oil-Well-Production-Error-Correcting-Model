@@ -1,4 +1,4 @@
-# Early-Life Production Forecasting for Unconventional Wells Using XGBoost
+# Early-Life Production Forecasting for Unconventional Wells
 
 **Tennessee Technological University — CSC-4615**
 
