@@ -1,6 +1,6 @@
 # Early-Life Production Forecasting for Unconventional Wells Using XGBoost
 
-**Tennessee Technological University — CSC-4615 | April 2026**
+**Tennessee Technological University — CSC-4615**
 
 Logan McDavid · Matt Hazelwood · Alex Lujan · Kyle Monday · Taylor Turner
 
